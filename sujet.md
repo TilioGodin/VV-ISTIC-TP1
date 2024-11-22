@@ -12,6 +12,10 @@
 
 ## Answers
 
-1. [This article](https://www.lemonde.fr/pixels/article/2024/08/01/apres-la-panne-mondiale-crowdstrike-fait-face-a-une-plainte-collective-de-certains-actionnaires_6263883_4408996.html) talks about the fairly recent Crowdstike bug. It was a global bug that made PCs with its software BSoD after their at the time most recent update. It seems that this company has set up an automated testing environement but it didn't catch the bug. Manualy written tests might have been able to prevent this bug from occuring.
+1. [This article](https://www.lemonde.fr/pixels/article/2024/08/01/apres-la-panne-mondiale-crowdstrike-fait-face-a-une-plainte-collective-de-certains-actionnaires_6263883_4408996.html) talks about the fairly recent Crowdstike bug. It was a local bug that made PCs with its software BSoD after their at the time most recent update. It seems that this company has set up an automated testing environement but it didn't catch the bug. Manualy written tests might have been able to prevent this bug from occuring.
 
 2. 
+
+3. Their concrete application of Chaos Engineering ais called Chaos Monkay and its purpose was to shut down virtual machiness that run their production services. Other companies such as Amazon, Google, Microsoft and Facebook are applying similar techniques.
+
+4. 

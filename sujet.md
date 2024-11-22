@@ -11,3 +11,7 @@
 5.  Shortly after the appearance of WebAssembly another paper proposed a mechanized specification of the language using Isabelle. The paper can be consulted here: https://www.cl.cam.ac.uk/~caw77/papers/mechanising-and-verifying-the-webassembly-specification.pdf. This mechanized specification complements the first formalization attempt from the paper. According to the author of this second paper, what are the main advantages of the mechanized specification? Did it help improving the original formal specification of the language? What other artifacts were derived from this mechanized specification? How did the author verify the specification? Does this new specification removes the need for testing?
 
 ## Answers
+
+1. [This article](https://www.lemonde.fr/pixels/article/2024/08/01/apres-la-panne-mondiale-crowdstrike-fait-face-a-une-plainte-collective-de-certains-actionnaires_6263883_4408996.html) talks about the fairly recent Crowdstike bug. It was a global bug that made PCs with its software BSoD after their at the time most recent update. It seems that this company has set up an automated testing environement but it didn't catch the bug. Manualy written tests might have been able to prevent this bug from occuring.
+
+2. 
